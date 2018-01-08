@@ -18,4 +18,5 @@ for(x = 1; x <= 100; x++)
     else {
         printf("%d\n", x);
     }
+return(0);
 }
